@@ -1,5 +1,7 @@
 const mainContainer = document.getElementById('mainContainer');
-  const grid = document.createElement('div');
+const grid = document.createElement('div');
+
+let gridSize = prompt("Enter the grid size. Max is 100:","18");
 
 for (let i = 1; i <= 18; i++) {
   const grid = document.createElement('div');
