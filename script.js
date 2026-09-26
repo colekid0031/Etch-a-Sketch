@@ -1,7 +1,7 @@
 const mainContainer = document.getElementById('mainContainer');
 
 
-let userChoice = prompt("Enter the grid size. Max is 100:","18");
+let userChoice = prompt("Enter the grid size. Max amount: 50000","18");
 
 var i = 0;
 
