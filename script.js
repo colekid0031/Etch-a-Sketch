@@ -6,8 +6,7 @@ let gridSize = prompt("Enter the grid size. Max is 100:","18");
 for (let i = 1; i <= 18; i++) {
   const grid = document.createElement('div');
   
-        grid.className = 'pix';
-  
+        grid.className = 'pix';  
   mainContainer.appendChild(grid);
 
 }
