@@ -53,13 +53,12 @@ body{
 
 /* Grid settings */
 .pix{
-outline: aqua 1.5px solid; 
+outline: black 0.1px solid; 
 height: 70px;
 width: 70px;
 }
 
 .box{
-outline: aqua 1.5px solid; 
 height: 70px;
 width: 70px;
 background-color: aqua;
