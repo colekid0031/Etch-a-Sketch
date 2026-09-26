@@ -54,12 +54,12 @@ body{
 /* Grid settings */
 .pix{
 outline: black 0.1px solid; 
-height: 70px;
-width: 70px;
 }
 
 .box{
+background-color: aqua;
+}
+.boxSize{
 height: 70px;
 width: 70px;
-background-color: aqua;
 }
