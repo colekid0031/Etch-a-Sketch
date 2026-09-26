@@ -7,7 +7,6 @@ for (let i = 1; i <= 18; i++) {
   const grid = document.createElement('div');
   
         grid.className = 'pix';
-  grid.textContent = ` ${i}`;
   
   mainContainer.appendChild(grid);
 
